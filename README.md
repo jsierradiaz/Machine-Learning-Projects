@@ -15,3 +15,9 @@ will need in order to fulfill rentals based on weather conditions.
 The dataset used in this project can be found in the following link: https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
 
 The data set consist on a list of features captured by the telescope, this features can be used to classify gamma or hadron particles.
+
+### SeedPrediction
+The dataset used in this project can be found in the following link: https://archive.ics.uci.edu/ml/datasets/seeds
+
+The goal is to analyze the attratibutes of different types of wheat seeds (kernels) and corrently classify the class of seed. Clustering is used for the 
+unsupervised learning method, and KNN for the supervised method.
