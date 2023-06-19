@@ -21,3 +21,6 @@ The dataset used in this project can be found in the following link: https://arc
 
 The goal is to analyze the attratibutes of different types of wheat seeds (kernels) and corrently classify the class of seed. Clustering is used for the 
 unsupervised learning method, and KNN for the supervised method.
+
+### TitanicSurvival
+Used various classifiers to predict from the test set wether the passenger survived the event. 
