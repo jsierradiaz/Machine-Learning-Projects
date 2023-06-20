@@ -23,4 +23,9 @@ The goal is to analyze the attratibutes of different types of wheat seeds (kerne
 unsupervised learning method, and KNN for the supervised method.
 
 ### TitanicSurvival
-Used various classifiers to predict from the test set wether the passenger survived the event. 
+Used various classifiers to predict from the test set wether the passenger survived the event.
+
+### Patient's Medication
+Used a decision tree classifier to determine which drug medication was the best for the patient based on illness.
+
+The data set can be found in the following link: https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees
